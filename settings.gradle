@@ -1,0 +1,5 @@
+rootProject.name='AndroidOpenCVDemo'
+include ':app'
+include ':sdk'
+include ':face-detection'
+include ':opencvlibrary'
